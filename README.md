@@ -18,7 +18,7 @@ In this exercise we will do the following:
 
 3. Clone [this repository](https://github.com/tiy-raleigh-java/common-classes-in-java-math-class) using the `git clone` command:
 
-	`git clone https://github.com/tiy-raleigh-java/common-classes-in-java-math-class`
+	`git clone git@github.com:tiy-raleigh-java/common-classes-in-java-math-class.git`
 
 	This should create a new directory at `~/Projects/common-classes-in-java-math-class`.
 
