@@ -2,6 +2,7 @@ package com.theironyard;
 
 import net.doughughes.testifier.exception.CannotAccessMethodException;
 import net.doughughes.testifier.exception.CannotFindMethodException;
+import net.doughughes.testifier.exception.CannotInvokeMethodException;
 import net.doughughes.testifier.matcher.RegexMatcher;
 import net.doughughes.testifier.test.TestifierTest;
 import net.doughughes.testifier.util.Invoker;
@@ -27,7 +28,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a cube with sides of length 1 should be 1",
                     volume, closeTo(1, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
@@ -44,7 +45,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a cube with sides of length 7.123 should be 361.40056986700006",
                     volume, closeTo(361.40056986700006, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
@@ -95,7 +96,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a cone with radius of 1 and height of 1 should be 1.0471975511965976",
                     volume, closeTo(1.0471975511965976, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
@@ -112,7 +113,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a cone with radius of 3.4 and height of 5.5 should be 66.58082030507967",
                     volume, closeTo(66.58082030507967, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
@@ -147,7 +148,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a sphere with radius 1 should be 4.1887902047863905",
                     volume, closeTo(4.1887902047863905, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
@@ -164,7 +165,7 @@ public class VolumeTest extends TestifierTest {
             assertThat("Volume of a sphere with radius 7.123 should be 1513.8311670631094",
                     volume, closeTo(1513.8311670631094, 0.001));
 
-        } catch (CannotFindMethodException | CannotAccessMethodException e) {
+        } catch (CannotInvokeMethodException | CannotFindMethodException | CannotAccessMethodException e) {
             fail(e.getMessage());
         }
     }
