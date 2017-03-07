@@ -10,6 +10,9 @@ package com.theironyard;
  *
  * https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
  */
+
+//import static com.theironyard.class.java.math.PI;
+
 public class Volume {
 
     /**
@@ -34,6 +37,15 @@ public class Volume {
      * @return The volume of a cube.
      */
     // todo: create the cube() method as described above
+    /*public static double cube(double volume){
+
+        //double volume = (4.0 * Math.PI * Math.pow(4.0, 3.0)) / 3.0;
+
+         double volume = Math.PI(4.0, PI)/PI;
+
+
+        return volume;
+    }*/
 
 
     /**
@@ -59,6 +71,7 @@ public class Volume {
     // todo: create the cone() method as described above
 
 
+
     /**
      * Create a method named sphere(). This method should be static and publicly
      * accessible. It accepts one double argument, radius. It returns a double
@@ -75,10 +88,14 @@ public class Volume {
      *
      * Note: Don't forget to think about integer division in Java!
      *
+     *   V  =4
+              3πr3
+     *
      * @param radius
      * @return
      */
     // todo: create a method to calculate the area of a sphere
+    //public
 
 
 }
