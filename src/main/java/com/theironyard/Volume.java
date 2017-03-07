@@ -1,5 +1,6 @@
 package com.theironyard;
 
+
 /**
  * This is a utility class that will calculate and return the volume of 3D
  * shapes using the Math class. Your job is to create and implement static
@@ -37,15 +38,16 @@ public class Volume {
      * @return The volume of a cube.
      */
     // todo: create the cube() method as described above
-    /*public static double cube(double volume){
-
-        //double volume = (4.0 * Math.PI * Math.pow(4.0, 3.0)) / 3.0;
-
-         double volume = Math.PI(4.0, PI)/PI;
+    public static double cube(double edge){
 
 
-        return volume;
-    }*/
+
+        //V = a^3.
+
+        return Math.pow(edge,3);
+
+
+    }
 
 
     /**
@@ -69,6 +71,14 @@ public class Volume {
      * @return The volume of the cone
      */
     // todo: create the cone() method as described above
+    public static double cone(double radius, double height){
+
+       // V = πr^2 * h/3
+
+         return  Math.PI * Math.pow(radius, 2) * (height/3);
+
+
+    }
 
 
 
@@ -88,14 +98,19 @@ public class Volume {
      *
      * Note: Don't forget to think about integer division in Java!
      *
-     *   V  =4
-              3πr3
+     *
      *
      * @param radius
      * @return
      */
     // todo: create a method to calculate the area of a sphere
-    //public
+    public static double sphere(double radius){
+
+       return (4.0/3.0) * (Math.PI) * Math.pow(radius,3);
+
+        //* The formula for the area of a sphere is V = 4/3 * πr^3
+
+    }
 
 
 }
