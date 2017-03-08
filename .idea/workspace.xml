@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77660c70-bfe5-4971-9e12-3a18bf2e2850" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/theironyard/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/theironyard/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/theironyard/Volume.java" afterPath="$PROJECT_DIR$/src/main/java/com/theironyard/Volume.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="28">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -37,8 +36,8 @@
       <file leaf-file-name="Volume.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Volume.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="106" column="46" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="46" />
+            <state relative-caret-position="13">
+              <caret line="92" column="26" lean-forward="false" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -173,14 +172,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theironyard" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -799,26 +790,11 @@
       <workItem from="1486647477976" duration="89000" />
       <workItem from="1487939277696" duration="96000" />
       <workItem from="1487939470842" duration="161000" />
-      <workItem from="1488904566860" duration="6840000" />
+      <workItem from="1488904566860" duration="11193000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 13h 35m 54s.xml">
-      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 13h 43m 58s.xml">
-      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 15h 39m 09s.xml">
-      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 15h 47m 55s.xml">
-      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 15h 48m 06s.xml">
-      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 15h 48m 34s.xml">
       <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
     </history-entry>
@@ -834,12 +810,27 @@
     <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 16h 12m 57s.xml">
       <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 19h 48m 32s.xml">
+      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 22h 04m 38s.xml">
+      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.07 at 22h 04m 42s.xml">
+      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.08 at 00h 04m 19s.xml">
+      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Run_all_tests_(All_in_common-classes-in-java-math-class) - 2017.03.08 at 00h 04m 27s.xml">
+      <configuration name="Run all tests (All in common-classes-in-java-math-class)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11579000" />
+    <option name="totallyTimeSpent" value="15932000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -851,7 +842,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956687" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -956,13 +947,6 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/doughughes/testifier-rule/1.1.16/testifier-rule-1.1.16.jar!/net/doughughes/testifier/test/TestifierTest.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/net/doughughes/testifier-rule/1.1.16/testifier-rule-1.1.16.jar!/net/doughughes/testifier/service/SourceCodeService.class" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/theironyard/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="62" column="109" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -972,12 +956,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/theironyard/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="62" column="109" lean-forward="false" selection-start-line="62" selection-start-column="109" selection-end-line="62" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/theironyard/VolumeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
+        <state relative-caret-position="75">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#testCubeIsStatic#0;class#VolumeTest#0" expanded="false" />
             <element signature="method#testCubeDoesNotUseMultiplicationOperator#0;class#VolumeTest#0" expanded="false" />
             <element signature="method#testConeIsStatic#0;class#VolumeTest#0" expanded="false" />
@@ -987,16 +978,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Volume.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="106" column="46" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="46" />
+        <state relative-caret-position="13">
+          <caret line="92" column="26" lean-forward="false" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/theironyard/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="28">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
